@@ -196,18 +196,6 @@ Perez-Sancha, David (2022). *Towards Real-Time Monitoring of Earthquakes thanks 
 
 The report is the principal source for the description of the historical observations, processing methods, and study-specific datasets in this README. **Public URL to the report:** [add approved URL if available].
 
-## Contacts and release information
-
-| Field | Status |
-| --- | --- |
-| Dataset owner and release approver | Airbus — named release contact to be confirmed |
-| Scientific contact | [To be confirmed] |
-| Technical/data contact | [To be confirmed] |
-| AWS public S3 bucket | [Pending] |
-| AWS Registry of Open Data entry | [Pending] |
-| Release identifier/date | [Pending] |
-| Dataset DOI, if registered | [Pending] |
-| Public issue tracker / support channel | [To be confirmed] |
 
 ## Before announcing availability
 
