@@ -192,20 +192,9 @@ Until Airbus authorizes publication and the applicable upstream rights are confi
 
 ## Scientific reference
 
-Perez-Sancha, David (2022). *Towards Real-Time Monitoring of Earthquakes thanks to AI*. End-of-Studies Internship Report, DEEL (DEpendable Explainable Learning) Project, IRT Saint Exupéry. Supervisors named in the report: Adrien Elfassi and Grégory Flandin. Research undertaken in collaboration with Airbus and the Institut de Physique du Globe de Paris (IPGP).
+ DEEL (Dependable, Explainable & Embeddable Learning) Project, IRT Saint Exupéry. 
 
 The report is the principal source for the description of the historical observations, processing methods, and study-specific datasets in this README. **Public URL to the report:** [add approved URL if available].
-
-
-## Before announcing availability
-
-- [ ] Obtain Airbus publication approval and verify GEONET and partner redistribution rights.
-- [ ] Validate the current 80 TB inventory, actual file formats and object-key layout.
-- [ ] Publish authoritative schemas, scientific metadata, checksums and the source-data attribution.
-- [ ] Define and review the release `LICENSE` and `NOTICE` files.
-- [ ] Publish and verify a small example file and an executable data-reading example.
-- [ ] Replace all placeholders with the actual AWS S3 bucket, region, dataset version and contacts.
-- [ ] Confirm the actual AWS Open Data Sponsorship / Registry inclusion before referring to the dataset as AWS-hosted.
 
 ---
 
